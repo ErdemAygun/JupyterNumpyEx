@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Dolores",
+    "surname": "D.",
+    "grades": "5 4 6 3 6 4 3 3 3 3"
+  },
+  {
+    "name": "Agnieszka",
+    "surname": "J.",
+    "grades": "4 2 4 4 3 3 1 3 1 3"
+  },
+  {
+    "name": "Dolores",
+    "surname": "M.",
+    "grades": "4 4 4 4 3 3 4 4 3 3"
+  },
+  {
+    "name": "Mateusz",
+    "surname": "C.",
+    "grades": "4 4 3 3 3 4 4 3 3 4"
+  },
+  {
+    "name": "Ester",
+    "surname": "K.",
+    "grades": "1 2 1 1 3 2 4 3 1 3"
+  },
+  {
+    "name": "Agnieszka",
+    "surname": "I.",
+    "grades": "1 4 3 4 2 4 3 3 2 4"
+  },
+  {
+    "name": "Marek",
+    "surname": "F.",
+    "grades": "3 4 3 1 1 2 3 4 4 3"
+  },
+  {
+    "name": "Dolores",
+    "surname": "P.",
+    "grades": "3 1 1 1 3 3 3 2 3 3"
+  },
+  {
+    "name": "Damian",
+    "surname": "K.",
+    "grades": "4 4 4 1 3 3 3 4 1 2"
+  },
+  {
+    "name": "Damian",
+    "surname": "D.",
+    "grades": "3 6 3 5 3 5 4 6 3 4"
+  },
+  {
+    "name": "Marek",
+    "surname": "V.",
+    "grades": "3 5 4 3 5 4 5 4 3 5"
+  },
+  {
+    "name": "Marek",
+    "surname": "Z.",
+    "grades": "5 4 3 5 5 4 4 5 4 5"
+  },
+  {
+    "name": "Magdalena",
+    "surname": "D.",
+    "grades": "5 3 4 5 4 5 4 5 3 6"
+  }
+]
